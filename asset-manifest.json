@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/truisms/static/css/main.5a788e0b.css",
+    "main.js": "/truisms/static/js/main.a456f425.js",
+    "index.html": "/truisms/index.html",
+    "main.5a788e0b.css.map": "/truisms/static/css/main.5a788e0b.css.map",
+    "main.a456f425.js.map": "/truisms/static/js/main.a456f425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a788e0b.css",
+    "static/js/main.a456f425.js"
+  ]
+}
